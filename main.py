@@ -7,3 +7,9 @@ print("Working 1")
 print("Working 2")
 
 print("conflict1")
+
+print("Working 3")
+
+print("next1")
+
+print("next2")
