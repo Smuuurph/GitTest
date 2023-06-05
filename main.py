@@ -11,3 +11,5 @@ print("Conflict 1")
 print("Working 3")
 
 print("next1")
+
+print("next2")
