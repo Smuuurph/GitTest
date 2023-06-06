@@ -1,8 +1,15 @@
-print("This code is here before a commit")
-print("this line is here after a commit")
+print("Initial commit")
+print("Commit 2 Edited!")
+print("Commit 3")
 
-print("this line is only on the first head test")
+print("Working 1")
 
+print("Working 2")
 
-print("this line exists after the first commit")
+print("conflict1")
 
+print("Working 3")
+
+print("next1")
+
+print("next2")
